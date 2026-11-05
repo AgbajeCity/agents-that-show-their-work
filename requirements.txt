@@ -1,0 +1,2 @@
+# Only needed for --gemini. The default mode uses the standard library.
+google-genai>=1.0
